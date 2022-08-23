@@ -19,7 +19,7 @@ Currently Learning
 
 [![github stats](https://github-readme-stats.vercel.app/api?7Kazumiii=anuraghazra&hide=contribs,prs)](https://github.com/7Kazumii)
 
-![GitHub Followers](https://img.shields.io/github/followers/7Kazumii?color=aqua&label=Followers&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/7kazumiii?logo=Github&logoColor=3732ff&label=Followers&style=for-the-badge )
 ![GitHub Stars](https://img.shields.io/github/stars/7Kazumii?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/7Kazumii?color=aqua&style=for-the-badge)
 
