@@ -23,4 +23,4 @@ Currently Learning
 
 ## **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&layout=compact)](https://github.com/7Kazumiii)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&show_icons=true&theme=radical&layout=compact)](https://github.com/7Kazumiii)
