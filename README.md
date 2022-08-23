@@ -1,32 +1,33 @@
 
-- **Founder of [Astro](https://discord.gg/astrodev)**
-- **I put mostly of my focus on [Python](https://python.org) and [JavaScript](https://nodejs.org)**
-- **My Everyday usage is based on: `.py` `.js` `.sh` `.bat`**
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 
-##**ABOUT ME**:
+I'm a self-taught software engineer from the United States, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
-**Languages I Currently Learning**
+---
 
-[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=nodejs)](https://nodejs.org)
+<a href="https://discord.com/users/705665813994012695">
+  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
+- 🖥️ Frontend:
+  - React / Next.js
+  - TailwindCSS / styled-components
+  - In the past: HTML/CSS/JS
 
-**My Tech Stack I use Everyday:**
+- 🛠 Backend:
+  - Node / Fastify
+  - Postgres + Prisma
+  - Redis
+  - Docker
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
-[![Visual Stuido Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+Learning/know a bit of Python, Go, and Swift as well :)
 
-**Hobbies :**
+\
+[![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
 
-[![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
+[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
 
-
-
-##  🎶 **Currently Playing**
-[![Spotify](https://novatorem-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/87rq22ywa5byfgx9o0zawp5uh)
-
-
-##  🐙 **Github Stats**
+##  **Github Stats**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumii&show_icons=true&theme=radical)](https://github.com/pokurt)
 
@@ -38,7 +39,3 @@
 ## 🌐 **Top Languages**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&show_icons=true&theme=radical&layout=compact)](https://github.com/7Kazumiii)
-
-
-## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=7Kazumiii&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
