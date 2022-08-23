@@ -5,8 +5,8 @@ I'm a self-taught software engineer from the United States, who's currently purs
 
 ---
 
-<a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+<a href="https://discord.com/users/1005921730918875177">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1005921730918875177?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 - 🖥️ Frontend:
