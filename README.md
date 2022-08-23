@@ -23,7 +23,7 @@ I'm a self-taught software engineer from the United States, who's currently purs
 Learning/know a bit of Python, Go, and Swift as well :)
 
 
-## **Github Stats**
+## **Github**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumii&show_icons=true&theme=radical)](https://github.com/pokurt)
 
