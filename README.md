@@ -15,7 +15,7 @@ Currently Learning
 
 ## **Github**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumiii&show_icons=true&theme=radical)](https://github.com/7Kazumiii)
+[![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumiii&show_icons=true&theme=dark)](https://github.com/7Kazumiii)
 
 ![GitHub Followers](https://img.shields.io/github/followers/7kazumiii?logo=Github&logoColor=3732ff&label=Followers&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/7Kazumiii?logo=Github&logoColor=3732ff&label=STARS&style=for-the-badge )
@@ -23,4 +23,4 @@ Currently Learning
 
 ## **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&show_icons=true&theme=radical&layout=compact)](https://github.com/7Kazumiii)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&show_icons=true&theme=dark&layout=compact)](https://github.com/7Kazumiii)
