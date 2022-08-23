@@ -12,6 +12,10 @@ Currently Learning
   - Python
   - Web
 
+Currently Working on
+  - Discord Tools
+
+
 
 ## **Github**
 
