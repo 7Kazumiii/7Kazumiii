@@ -1,9 +1,9 @@
 
 - **Founder of [Astro](https://discord.gg/astrodev)**
-- **I put mostly of my focus on [Python](https://python.org) and [N](https://nim-lang.org)**
-- **My Everyday usage is based on: `.py` `.nim` `.sh`**
+- **I put mostly of my focus on [Python](https://python.org) and [JavaScript](https://nodejs.org)**
+- **My Everyday usage is based on: `.py` `.js` `.sh` `.bat`**
 
-## 👦 **About me**:
+##**ABOUT ME**:
 
 **Languages I Currently Learning**
 
@@ -30,8 +30,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)](https://github.com/pokurt)
 
-![GitHub followers](https://img.shields.io/github/followers/pokurt?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/pokurt?affiliations=OWNER&color=aqua&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/pokurt?color=aqua&label=Followers&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/pokurt?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/pokurt?color=aqua&style=for-the-badge)
 
 
