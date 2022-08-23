@@ -25,7 +25,7 @@ Learning/know a bit of Python, Go, and Swift as well :)
 
 ## **Github**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumii&show_icons=true&theme=radical)](https://github.com/pokurt)
+[![github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?7Kazumiii=anuraghazra&hide=contribs,prs))
 
 ![GitHub Followers](https://img.shields.io/github/followers/7Kazumii?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/7Kazumii?affiliations=OWNER&color=aqua&style=for-the-badge)
