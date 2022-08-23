@@ -22,12 +22,8 @@ I'm a self-taught software engineer from the United States, who's currently purs
 
 Learning/know a bit of Python, Go, and Swift as well :)
 
-\
-[![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
 
-[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
-
-##  **Github Stats**
+##**Github Stats**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=7Kazumii&show_icons=true&theme=radical)](https://github.com/pokurt)
 
@@ -36,6 +32,6 @@ Learning/know a bit of Python, Go, and Swift as well :)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/7Kazumii?color=aqua&style=for-the-badge)
 
 
-## 🌐 **Top Languages**
+##**Top Languages**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Kazumiii&show_icons=true&theme=radical&layout=compact)](https://github.com/7Kazumiii)
