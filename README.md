@@ -9,18 +9,10 @@ I'm a self-taught software engineer from the United States, who's currently purs
   <img src="https://lanyard-profile-readme.vercel.app/api/1005921730918875177?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-- 🖥️ Frontend:
-  - React / Next.js
-  - TailwindCSS / styled-components
-  - In the past: HTML/CSS/JS
-
-- 🛠 Backend:
-  - Node / Fastify
-  - Postgres + Prisma
-  - Redis
-  - Docker
-
-Learning/know a bit of Python, Go, and Swift as well :)
+Currently Learning
+  - NodeJS
+  - Python
+  - Web
 
 
 ## **Github**
