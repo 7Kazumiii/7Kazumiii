@@ -1,5 +1,3 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa pokuruto desu ~  | [![Profile views](https://gpvc.arturio.dev/pokurt)](https://github.com/pokurt)
-
 
 - **Founder of [Astro](https://discord.gg/astrodev)**
 - **I put mostly of my focus on [Python](https://python.org) and [N](https://nim-lang.org)**
