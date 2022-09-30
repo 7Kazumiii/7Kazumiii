@@ -1,5 +1,5 @@
 
-Hey, I'm 7Kazumii.
+Hey, I'm Sencho.
 
 ---
 
@@ -13,7 +13,7 @@ Currently Learning
   - Web
 
 Currently Working on
-  - Discord Tools
+  - Personal Websites
 
 
 
